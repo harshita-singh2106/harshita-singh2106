@@ -1,47 +1,69 @@
 <h1 align="center">Hi 👋, I'm Harshita Singh</h1>
-<h3 align="center">3rd Year B.Tech CSE Student | Web Development</h3>
+<h3 align="center">3rd Year B.Tech CSE Student | Web Development Enthusiast</h3>
 
 ---
 
 ### 👩‍💻 About Me  
 I’m a 3rd year Computer Science student at SRM University, Kattankulathur.  
-I’m genuinely interested in web development and enjoy turning ideas into simple, working web applications.  
-I believe in learning by building and improving step by step.
+I enjoy building clean and functional web applications.  
+I believe in learning by building real projects and improving step by step.
 
 ---
 
-### 🔭 What I’m currently working on  
-- Small to medium web projects using HTML, CSS, and JavaScript  
-- Improving my backend understanding with Node.js and Express  
-- Practicing problem-solving regularly using C++
+### 🔥 GitHub Streak
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=harshita-singh2106&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" />
+</p>
 
 ---
 
-### 🌱 What I’m currently learning  
-- Full stack web development concepts  
-- How APIs work and how to integrate them  
-- Basics of databases and backend logic  
-- Introductory concepts of ML and NLP (slowly, alongside core skills)
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=harshita-singh2106&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+</p>
+
+---
+
+### 💻 Top Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshita-singh2106&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
 ### 🛠 Tech Stack  
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,github,cpp" />
 </p>
 
 ---
 
-### 🤝 I’m open to  
-- Internships  
-- Collaborative projects  
-- Hackathons and learning-focused teams  
+### 🔭 Currently Working On
+- Full stack web development projects  
+- Backend development using Node.js & Express  
+- Problem solving using C++
 
 ---
 
-### 📫 How to reach me  
+### 🌱 Currently Learning
+- APIs & backend integration  
+- Database concepts (MongoDB & SQL basics)  
+- Introductory ML & NLP
+
+---
+
+### 🤝 Open To
+- Internships  
+- Collaborative Projects  
+- Hackathons  
+
+---
+
+### 📫 Connect With Me
 - Email: harshitasingh212121@gmail.com  
 
 ---
 
-> Trying to grow as a developer by building real projects and learning from mistakes 🚀
+<p align="center">
+  <i>Trying to grow as a developer by building real projects and learning from mistakes 🚀</i>
+</p>

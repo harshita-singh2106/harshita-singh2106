@@ -21,7 +21,9 @@ I believe in learning by building real projects and improving step by step.
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=harshita-singh2106&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
+
 ---
+
 ### 💻 Top Languages
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=harshita-singh2106&layout=compact&theme=tokyonight&hide_border=true" />
@@ -61,6 +63,10 @@ I believe in learning by building real projects and improving step by step.
 - Email: harshitasingh212121@gmail.com  
 
 ---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=harshita-singh2106&label=Profile%20Views&color=blueviolet&style=flat" />
+</p>
 
 <p align="center">
   <i>Trying to grow as a developer by building real projects and learning from mistakes 🚀</i>

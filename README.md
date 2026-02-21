@@ -16,17 +16,15 @@ I believe in learning by building real projects and improving step by step.
 </p>
 
 ---
-
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harshita-singh2106&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=harshita-singh2106&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
-
 ### 💻 Top Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshita-singh2106&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=harshita-singh2106&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---

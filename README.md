@@ -12,7 +12,7 @@ I believe in learning by building real projects and improving step by step.
 
 ### 🔥 GitHub Streak
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=harshita-singh2106&theme=tokyonight&hide_border=true&cache_seconds=60" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=harshita-singh2106&theme=tokyonight&hide_border=true" />
 </p>
 
 ---

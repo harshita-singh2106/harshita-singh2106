@@ -1,12 +1,21 @@
 <h1 align="center">Hi 👋, I'm Harshita Singh</h1>
-<h3 align="center">3rd Year B.Tech CSE Student | Web Development Enthusiast</h3>
+<h3 align="center">3rd Year B.Tech CSE Student | Aspiring Full Stack Developer</h3>
 
 ---
 
 ### 👩‍💻 About Me  
 I’m a 3rd year Computer Science student at SRM University, Kattankulathur.  
 I enjoy building clean and functional web applications.  
-I believe in learning by building real projects and improving step by step.
+I believe in learning by building real projects and improving step by step.  
+Currently focusing on improving my **backend and problem solving skills**.
+
+---
+
+### 🚀 Goals for 2026
+- Build more full stack projects  
+- Improve problem solving in C++  
+- Contribute to open source  
+- Get a good software development internship  
 
 ---
 
@@ -16,11 +25,11 @@ I believe in learning by building real projects and improving step by step.
 </p>
 
 ---
+
 ### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=harshita-singh2106&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
-
 
 ---
 
@@ -69,5 +78,5 @@ I believe in learning by building real projects and improving step by step.
 </p>
 
 <p align="center">
-  <i>Trying to grow as a developer by building real projects and learning from mistakes 🚀</i>
+  <i>Building projects, learning continuously, and growing as a developer 🚀</i>
 </p>

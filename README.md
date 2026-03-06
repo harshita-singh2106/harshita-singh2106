@@ -52,9 +52,9 @@
 
 ---
 
-## 🏆 GitHub Achievements
+## 🐍 Contribution Snake
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=harshita-singh2106&theme=tokyonight&no-frame=true&margin-w=10"/>
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---

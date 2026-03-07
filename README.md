@@ -7,80 +7,75 @@
 
 ---
 
-## 👩‍💻 About Me
+# 👩‍💻 About Me
 - 🎓 3rd Year **B.Tech CSE Student at SRM University, Kattankulathur**
-- 💻 Passionate about **Web Development**
-- 🚀 Love building **real world projects**
-- 📈 Currently improving **Backend + Problem Solving**
-- 🌱 Learning something new every day
+- 💻 Passionate about **Web Development & Building Real Projects**
+- ⚡ Interested in **Full Stack Development**
+- 📈 Currently improving **Backend Development & DSA**
+- 🌱 Always learning and exploring new technologies
 
 ---
 
-## 🚀 Goals for 2026
-- Build **more full stack projects**
-- Improve **DSA using C++**
-- Contribute to **Open Source**
-- Get a **Software Development Internship**
+# 🚀 Goals for 2026
+- 🛠 Build **more Full Stack Projects**
+- 🧠 Improve **DSA using C++**
+- 🌍 Contribute to **Open Source**
+- 💼 Secure a **Software Development Internship**
 
 ---
 
-## 🛠 Tech Stack
+# 🛠 Tech Stack
 <p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,github,cpp" />
 </p>
 
 ---
 
-## 🔥 GitHub Streak
+# 📊 GitHub Overview
+
 <p align="center">
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=harshita-singh2106&show_icons=true&theme=tokyonight&hide_border=true"/>
 <img src="https://github-readme-streak-stats-eight.vercel.app/?user=harshita-singh2106&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=harshita-singh2106&show_icons=true&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-## 💻 Most Used Languages
+# 💻 Most Used Languages
 <p align="center">
 <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=harshita-singh2106&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-## 🐍 Contribution Snake
+# 🐍 Contribution Snake
 <p align="center">
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
 
-## 🔭 Currently Working On
-- 🌐 Full Stack Web Projects  
-- ⚙ Backend with **Node.js & Express**  
-- 🧠 Problem Solving using **C++**
+# 🔭 Currently Working On
+- 🌐 **Full Stack Web Development Projects**
+- ⚙ **Backend Development with Node.js & Express**
+- 🧠 **Problem Solving using C++**
 
 ---
 
-## 🌱 Currently Learning
-- API Development  
-- MongoDB & SQL  
-- Basics of **Machine Learning & NLP**
+# 🌱 Currently Learning
+- 🔗 API Development & Backend Integration
+- 🗄 Database Concepts (**MongoDB & SQL**)
+- 🤖 Basics of **Machine Learning & NLP**
 
 ---
 
-## 🤝 Open To
-- Internships  
-- Collaborative Projects  
-- Hackathons  
+# 🤝 Open To
+- 💼 **Internships**
+- 👨‍💻 **Collaborative Projects**
+- 🏆 **Hackathons**
 
 ---
 
-## 📫 Connect With Me
+# 📫 Connect With Me
 📧 **Email:** harshitasingh212121@gmail.com  
 
 ---

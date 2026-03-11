@@ -14,24 +14,31 @@
 
 # 👩‍💻 About Me
 
-🎓 3rd Year **B.Tech CSE Student at SRM University, Kattankulathur**
+🎓 **3rd Year B.Tech CSE Student at SRM University, Kattankulathur**
 
 💻 Passionate about **Web Development**
 
 ⚡ Interested in **Full Stack Development**
 
-📈 Currently improving **Backend Development & Data Structures**
+📈 Improving **Backend Development & Data Structures**
 
-🌱 I enjoy building projects and learning new technologies every day
+🌱 I enjoy **building projects and learning new technologies**
+
+---
+
+# 🚀 Career Goals
+
+✔ Build impactful **Full Stack Projects**  
+✔ Improve **Data Structures & Algorithms (C++)**  
+✔ Contribute to **Open Source Projects**  
+✔ Secure a **Software Development Internship**
 
 ---
 
 # 🛠 Tech Stack
 
 <p align="center">
-
 <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,github,cpp"/>
-
 </p>
 
 ---
@@ -51,9 +58,7 @@
 # 💻 Most Used Languages
 
 <p align="center">
-
 <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=harshita-singh2106&layout=compact&theme=tokyonight&hide_border=true"/>
-
 </p>
 
 ---
@@ -61,9 +66,7 @@
 # 📈 GitHub Activity Graph
 
 <p align="center">
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=harshita-singh2106&theme=tokyo-night&hide_border=true"/>
-
 </p>
 
 ---
@@ -71,9 +74,7 @@
 # 🐍 Contribution Snake
 
 <p align="center">
-
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
-
 </p>
 
 ---
@@ -90,9 +91,11 @@
 
 # 🌱 Currently Learning
 
-🔗 API Development  
-🗄 MongoDB & SQL  
-🤖 Basics of **Machine Learning & NLP**
+🔗 **API Development**
+
+🗄 **MongoDB & SQL**
+
+🤖 **Basics of Machine Learning & NLP**
 
 ---
 

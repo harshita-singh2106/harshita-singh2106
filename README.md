@@ -1,11 +1,8 @@
 <h1 align="center">Hi 👋, I'm Harshita Singh</h1>
-
-<h3 align="center">
-🚀 Aspiring Full Stack Developer | B.Tech CSE Student at SRM University
-</h3>
+<h3 align="center">🚀 Aspiring Full Stack Developer | B.Tech CSE Student</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6A5ACD&center=true&vCenter=true&width=520&lines=Full+Stack+Developer;Web+Development+Enthusiast;Learning+Backend+and+DSA;Building+Projects+and+Growing+Everyday"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6A5ACD&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Web+Development+Enthusiast;Learning+Backend+and+DSA;Building+Projects+and+Growing+Everyday"/>
 </p>
 
 <p align="center">
@@ -17,43 +14,20 @@
 
 ## 👩‍💻 About Me
 
-🎓 3rd Year **B.Tech Computer Science Student** at **SRM University, Kattankulathur**
-
-💻 Passionate about **Full Stack Web Development**
-
-⚡ Interested in building **scalable and real-world web applications**
-
-📈 Currently improving **Backend Development & Data Structures**
-
-🌱 Always learning new technologies and improving my development skills
+- 🎓 **3rd Year B.Tech CSE Student at SRM University**
+- 💻 Passionate about **Full Stack Web Development**
+- ⚡ Interested in building **real-world applications**
+- 📈 Currently improving **Backend Development & Data Structures**
+- 🌱 Always learning new technologies and building projects
 
 ---
 
-## 🎯 Career Goals
-
-- 🚀 Build impactful **Full Stack Applications**
-- 🧠 Strengthen **Data Structures & Algorithms**
-- 🌍 Contribute to **Open Source**
-- 💼 Secure a **Software Development Internship**
-
----
-
-## 🧰 Tech Stack
-
-### 💻 Languages
-HTML • CSS • JavaScript • C++
-
-### ⚙️ Frameworks & Libraries
-React • Node.js • Express
-
-### 🗄 Databases
-MongoDB • SQL
-
-### 🛠 Tools & Platforms
-Git • GitHub • VS Code
+## 🛠 Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,github,cpp,vscode"/>
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,github,cpp"/>
+
 </p>
 
 ---
@@ -62,9 +36,9 @@ Git • GitHub • VS Code
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=harshita-singh2106&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=harshita-singh2106&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-streak-stats-eight.vercel.app/?user=harshita-singh2106&theme=tokyonight&hide_border=true"/>
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=harshita-singh2106&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -74,32 +48,16 @@ Git • GitHub • VS Code
 
 <p align="center">
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=harshita-singh2106&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshita-singh2106&layout=compact&theme=tokyonight&hide_border=true"/>
 
-</p>
-
----
-
-## 📈 GitHub Activity
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=harshita-singh2106&theme=tokyo-night&hide_border=true"/>
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
 </p>
 
 ---
 
 ## 🚀 Currently Working On
 
-- 🌐 Full Stack Web Development Projects  
-- ⚙ Backend Development using **Node.js & Express**  
+- 🌐 Full Stack Web Applications  
+- ⚙ Backend Development with **Node.js & Express**  
 - 🧠 Improving **Problem Solving using C++**
 
 ---
@@ -108,15 +66,15 @@ Git • GitHub • VS Code
 
 - 🔗 API Development  
 - 🗄 MongoDB & SQL  
-- 🤖 Basics of **Machine Learning & NLP**
+- 🤖 Basics of **Machine Learning**
 
 ---
 
 ## 🤝 Open To
 
-💼 **Internships**  
-👨‍💻 **Collaborative Projects**  
-🏆 **Hackathons**
+- 💼 **Internships**
+- 👨‍💻 **Collaborative Projects**
+- 🏆 **Hackathons**
 
 ---
 
@@ -124,6 +82,8 @@ Git • GitHub • VS Code
 
 📧 **Email:** harshitasingh212121@gmail.com  
 
+---
+
 <p align="center">
-✨ <i>Building projects, learning continuously, and growing as a developer</i> 🚀
+✨ <i>Building projects, learning continuously, and growing as a developer 🚀</i>
 </p>

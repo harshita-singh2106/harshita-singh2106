@@ -17,11 +17,15 @@
 
 ## 👩‍💻 About Me
 
-- 🎓 **3rd Year B.Tech CSE Student at SRM University**
-- 💻 Passionate about **Full Stack Web Development**
-- ⚡ Interested in building **real-world web applications**
-- 📈 Currently improving **Backend Development & Data Structures**
-- 🌱 Always learning new technologies and building projects
+🎓 **3rd Year B.Tech CSE Student at SRM University**
+
+💻 Passionate about **Full Stack Web Development**
+
+⚡ Interested in building **real-world web applications**
+
+📈 Currently improving **Backend Development & Data Structures**
+
+🌱 Always learning new technologies and building projects
 
 ---
 
@@ -29,7 +33,7 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,github,cpp"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,github,cpp,vscode"/>
 
 </p>
 
@@ -39,7 +43,7 @@
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=harshita-singh2106&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=harshita-singh2106&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
 
 <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=harshita-singh2106&theme=tokyonight&hide_border=true"/>
 
@@ -60,15 +64,17 @@
 ## 🐍 Contribution Snake
 
 <p align="center">
+
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
+
 </p>
 
 ---
 
 ## ⭐ Featured Projects
 
-- 🤖 **AI Resume Screening & Candidate Evaluation Platform**
-- 🔍 **Code Plagiarism Detection Tool**
+- 🤖 **AI Resume Screening & Candidate Evaluation Platform**  
+- 🔍 **Code Plagiarism Detection Tool**  
 - 🌐 **Full Stack Web Applications**
 
 ---
@@ -91,9 +97,9 @@
 
 ## 🤝 Open To
 
-- 💼 **Internships**
-- 👨‍💻 **Collaborative Projects**
-- 🏆 **Hackathons**
+💼 **Internships**  
+👨‍💻 **Collaborative Projects**  
+🏆 **Hackathons**
 
 ---
 

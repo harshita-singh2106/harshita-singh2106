@@ -1,8 +1,11 @@
 <h1 align="center">Hi 👋, I'm Harshita Singh</h1>
-<h3 align="center">🚀 Aspiring Full Stack Developer | B.Tech CSE Student</h3>
+
+<h3 align="center">
+🚀 Aspiring Full Stack Developer | B.Tech CSE Student
+</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6A5ACD&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Web+Development+Enthusiast;Learning+Backend+and+DSA;Building+Projects+and+Growing+Everyday"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6A5ACD&center=true&vCenter=true&width=520&lines=Full+Stack+Developer;Web+Development+Enthusiast;Learning+Backend+and+DSA;Building+Projects+and+Growing+Everyday"/>
 </p>
 
 <p align="center">
@@ -16,7 +19,7 @@
 
 - 🎓 **3rd Year B.Tech CSE Student at SRM University**
 - 💻 Passionate about **Full Stack Web Development**
-- ⚡ Interested in building **real-world applications**
+- ⚡ Interested in building **real-world web applications**
 - 📈 Currently improving **Backend Development & Data Structures**
 - 🌱 Always learning new technologies and building projects
 
@@ -36,9 +39,9 @@
 
 <p align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=harshita-singh2106&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=harshita-singh2106&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=harshita-singh2106&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=harshita-singh2106&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -51,6 +54,22 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshita-singh2106&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
+</p>
+
+---
+
+## ⭐ Featured Projects
+
+- 🤖 **AI Resume Screening & Candidate Evaluation Platform**
+- 🔍 **Code Plagiarism Detection Tool**
+- 🌐 **Full Stack Web Applications**
 
 ---
 

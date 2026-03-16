@@ -1,35 +1,36 @@
 <h1 align="center">Hi 👋, I'm Harshita Singh</h1>
 
 <h3 align="center">
-🚀 Aspiring Full Stack Developer | B.Tech CSE Student
+🚀 Aspiring Full Stack Developer | B.Tech CSE @ SRM University
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6A5ACD&center=true&vCenter=true&width=520&lines=Full+Stack+Developer;Web+Development+Enthusiast;Learning+Backend+and+DSA;Building+Projects+and+Growing+Everyday"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=7F5AF0&center=true&vCenter=true&width=520&lines=Full+Stack+Developer;Web+Development+Enthusiast;Learning+Backend+%26+DSA;Building+Projects+Everyday"/>
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=harshita-singh2106&label=Profile%20Views&color=blueviolet&style=flat"/>
+<img src="https://komarev.com/ghpvc/?username=harshita-singh2106&label=Profile%20Views&color=7F5AF0&style=flat"/>
 <img src="https://img.shields.io/github/followers/harshita-singh2106?label=Followers&style=social"/>
+<img src="https://img.shields.io/github/stars/harshita-singh2106?affiliations=OWNER&style=social"/>
 </p>
 
 ---
 
-## 👩‍💻 About Me
+# 👩‍💻 About Me
 
-🎓 **3rd Year B.Tech CSE Student at SRM University**
+🎓 **B.Tech Computer Science Student at SRM University**
 
 💻 Passionate about **Full Stack Web Development**
 
-⚡ Interested in building **real-world web applications**
+⚡ I enjoy building **real-world web applications**
 
-📈 Currently improving **Backend Development & Data Structures**
+📚 Currently learning **Backend Development, APIs, and DSA**
 
-🌱 Always learning new technologies and building projects
+🚀 Working towards becoming a **skilled Full Stack Developer**
 
 ---
 
-## 🛠 Tech Stack
+# 🛠 Tech Stack
 
 <p align="center">
 
@@ -39,11 +40,11 @@
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=harshita-singh2106&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=harshita-singh2106&show_icons=true&theme=tokyonight&hide_border=true"/>
 
 <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=harshita-singh2106&theme=tokyonight&hide_border=true"/>
 
@@ -51,7 +52,7 @@
 
 ---
 
-## 💻 Most Used Languages
+# 💻 Most Used Languages
 
 <p align="center">
 
@@ -61,7 +62,7 @@
 
 ---
 
-## 🐍 Contribution Snake
+# 🐍 Contribution Graph
 
 <p align="center">
 
@@ -71,41 +72,60 @@
 
 ---
 
-## ⭐ Featured Projects
+# ⭐ Featured Projects
 
-- 🤖 **AI Resume Screening & Candidate Evaluation Platform**  
-- 🔍 **Code Plagiarism Detection Tool**  
-- 🌐 **Full Stack Web Applications**
+🔍 **Code Plagiarism Detection Tool**  
+Detects similarity between source codes using lexical and structural analysis.
 
----
+🤖 **AI Resume Screening Platform**  
+A smart system to evaluate candidate resumes automatically.
 
-## 🚀 Currently Working On
-
-- 🌐 Full Stack Web Applications  
-- ⚙ Backend Development with **Node.js & Express**  
-- 🧠 Improving **Problem Solving using C++**
+🌐 **Full Stack Web Applications**  
+Developed responsive web apps using MERN stack technologies.
 
 ---
 
-## 🌱 Currently Learning
+# 🚀 Currently Working On
 
-- 🔗 API Development  
-- 🗄 MongoDB & SQL  
-- 🤖 Basics of **Machine Learning**
-
----
-
-## 🤝 Open To
-
-💼 **Internships**  
-👨‍💻 **Collaborative Projects**  
-🏆 **Hackathons**
+✔ Full Stack Web Applications  
+✔ Backend Development with **Node.js & Express**  
+✔ Improving **Data Structures & Algorithms using C++**
 
 ---
 
-## 📫 Connect With Me
+# 🌱 Currently Learning
 
-📧 **Email:** harshitasingh212121@gmail.com  
+🔗 REST API Development  
+🗄 MongoDB & SQL Databases  
+🤖 Basics of Machine Learning
+
+---
+
+# 🤝 Open To Opportunities
+
+💼 **Software Development Internships**  
+👨‍💻 **Open Source Contributions**  
+🏆 **Hackathons & Collaborative Projects**
+
+---
+
+# 📫 Connect With Me
+
+<p align="center">
+
+<a href="mailto:harshitasingh212121@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/harshita-singh-04aa4334b">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/harshita-singh2106">
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
 
 ---
 

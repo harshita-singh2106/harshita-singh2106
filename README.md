@@ -1,115 +1,87 @@
 <h1 align="center">Hi 👋, I'm Harshita Singh</h1>
 
 <h3 align="center">
-🚀 Aspiring Full Stack Web Developer | B.Tech CSE @ SRM University
+🚀 Full Stack Developer | B.Tech CSE @ SRM University
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=7F5AF0&center=true&vCenter=true&width=520&lines=Full+Stack+Developer;Web+Development+Enthusiast;Learning+Backend+%26+DSA;Building+Projects+Everyday"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=7F5AF0&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;MERN+Stack+Enthusiast;Learning+Backend+%26+DSA;Building+Projects+Daily"/>
 </p>
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=harshita-singh2106&label=Profile%20Views&color=7F5AF0&style=flat"/>
 <img src="https://img.shields.io/github/followers/harshita-singh2106?label=Followers&style=social"/>
-<img src="https://img.shields.io/github/stars/harshita-singh2106?affiliations=OWNER&style=social"/>
 </p>
 
 ---
 
-# 👩‍💻 About Me
+## 👩‍💻 About Me
 
-🎓 **B.Tech Computer Science Student at SRM University**
-
-💻 Passionate about **Full Stack Web Development**
-
-⚡ I enjoy building **real-world web applications**
-
-📚 Currently learning **Backend Development, APIs, and DSA**
-
-🚀 Working towards becoming a **skilled Full Stack Developer**
+🎓 B.Tech CSE Student @ SRM University  
+💻 Passionate about Full Stack Web Development  
+🚀 Building real-world projects  
+📚 Currently learning Backend, APIs & DSA  
 
 ---
 
-# 🛠 Tech Stack
+## 🛠 Tech Stack
 
 <p align="center">
-
 <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,github,cpp,vscode"/>
-
 </p>
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=harshita-singh2106&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=harshita-singh2106&theme=tokyonight&hide_border=true"/>
-
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=harshita-singh2106&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="160" src="https://streak-stats.demolab.com?user=harshita-singh2106&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-# 💻 Most Used Languages
+## 💻 Top Languages
 
 <p align="center">
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshita-singh2106&layout=compact&theme=tokyonight&hide_border=true"/>
-
 </p>
 
 ---
 
-# 🐍 Contribution Graph
+## ⭐ Projects
 
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
-
-</p>
+🔍 Code Plagiarism Detection Tool  
+🤖 AI Resume Screening Platform  
+🌐 Full Stack MERN Applications  
 
 ---
 
-# ⭐ Featured Projects
+## 🚀 Currently Working On
 
-🔍 **Code Plagiarism Detection Tool**  
-Detects similarity between source codes using lexical and structural analysis.
-
-🤖 **AI Resume Screening Platform**  
-A smart system to evaluate candidate resumes automatically.
-
-🌐 **Full Stack Web Applications**  
-Developed responsive web apps using MERN stack technologies.
+✔ Full Stack Web Apps  
+✔ Backend with Node.js & Express  
+✔ DSA using C++  
 
 ---
 
-# 🚀 Currently Working On
+## 🌱 Learning
 
-✔ Full Stack Web Applications  
-✔ Backend Development with **Node.js & Express**  
-✔ Improving **Data Structures & Algorithms using C++**
-
----
-
-# 🌱 Currently Learning
-
-🔗 REST API Development  
-🗄 MongoDB & SQL Databases  
-🤖 Basics of Machine Learning
+🔗 REST APIs  
+🗄 MongoDB & SQL  
+🤖 Basics of ML  
 
 ---
 
-# 🤝 Open To Opportunities
+## 🤝 Open To
 
-💼 **Software Development Internships**  
-👨‍💻 **Open Source Contributions**  
-🏆 **Hackathons & Collaborative Projects**
+💼 Internships  
+👨‍💻 Open Source  
+🏆 Hackathons  
 
 ---
 
-# 📫 Connect With Me
+## 📫 Connect With Me
 
 <p align="center">
 
@@ -130,5 +102,5 @@ Developed responsive web apps using MERN stack technologies.
 ---
 
 <p align="center">
-✨ <i>Building projects, learning continuously, and growing as a developer 🚀</i>
+✨ Building daily • Learning consistently • Growing as a developer 🚀
 </p>

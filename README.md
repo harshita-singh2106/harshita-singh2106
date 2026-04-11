@@ -17,10 +17,10 @@
 
 ## 👩‍💻 About Me
 
-🎓 B.Tech CSE Student @ SRM University  
-💻 Passionate about Full Stack Web Development  
+🎓 B.Tech Computer Science Student @ SRM University  
+💻 Full Stack Web Developer (MERN)  
 🚀 Building real-world projects  
-📚 Currently learning Backend, APIs & DSA  
+📚 Learning Backend Development & DSA  
 
 ---
 
@@ -35,7 +35,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=harshita-singh2106&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=harshita-singh2106&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 <img height="160" src="https://streak-stats.demolab.com?user=harshita-singh2106&theme=tokyonight&hide_border=true"/>
 </p>
 
@@ -59,9 +59,9 @@
 
 ## 🚀 Currently Working On
 
-✔ Full Stack Web Apps  
-✔ Backend with Node.js & Express  
-✔ DSA using C++  
+✔ Full Stack Web Applications  
+✔ Backend using Node.js & Express  
+✔ Daily DSA Practice (C++)  
 
 ---
 
@@ -69,15 +69,15 @@
 
 🔗 REST APIs  
 🗄 MongoDB & SQL  
-🤖 Basics of ML  
+🤖 Basics of Machine Learning  
 
 ---
 
-## 🤝 Open To
+## 🤝 Open To Opportunities
 
-💼 Internships  
-👨‍💻 Open Source  
-🏆 Hackathons  
+💼 Software Development Internships  
+👨‍💻 Open Source Contributions  
+🏆 Hackathons & Team Projects  
 
 ---
 
@@ -102,5 +102,5 @@
 ---
 
 <p align="center">
-✨ Building daily • Learning consistently • Growing as a developer 🚀
+✨ Code daily • Build projects • Grow consistently 🚀
 </p>

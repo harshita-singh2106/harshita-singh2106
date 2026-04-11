@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Harshita Singh</h1>
 
 <h3 align="center">
-🚀 Aspiring Full Stack Developer | B.Tech CSE @ SRM University
+🚀 Aspiring Full Stack Web Developer | B.Tech CSE @ SRM University
 </h3>
 
 <p align="center">

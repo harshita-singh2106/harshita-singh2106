@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Harshita Singh</h1>
 
 <h3 align="center">
-🚀 Full Stack Developer | B.Tech CSE @ SRM University
+🚀 Full Stack Developer | MERN Stack | B.Tech CSE @ SRM University
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=7F5AF0&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;MERN+Stack+Enthusiast;Learning+Backend+%26+DSA;Building+Projects+Daily"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=800&color=7F5AF0&center=true&vCenter=true&width=550&lines=Full+Stack+Developer;MERN+Stack+Specialist;Backend+%2B+DSA+Focused;Building+Projects+Everyday"/>
 </p>
 
 <p align="center">
@@ -17,14 +17,15 @@
 
 ## 👩‍💻 About Me
 
-🎓 B.Tech Computer Science Student @ SRM University  
-💻 Full Stack Web Developer (MERN)  
-🚀 Building real-world projects  
-📚 Learning Backend Development & DSA  
+✨ Passionate Full Stack Developer  
+🎓 B.Tech CSE @ SRM University  
+💻 MERN Stack Specialist  
+🚀 Focused on building scalable real-world applications  
+📈 Consistent learner of Backend & Data Structures  
 
 ---
 
-## 🛠 Tech Stack
+## ⚡ Tech Stack
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,github,cpp,vscode"/>
@@ -32,7 +33,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <p align="center">
 <img height="160" src="https://github-readme-stats.vercel.app/api?username=harshita-singh2106&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
@@ -41,7 +42,7 @@
 
 ---
 
-## 💻 Top Languages
+## 💻 Most Used Languages
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshita-singh2106&layout=compact&theme=tokyonight&hide_border=true"/>
@@ -49,35 +50,47 @@
 
 ---
 
-## ⭐ Projects
+## 🚀 Featured Projects
 
-🔍 Code Plagiarism Detection Tool  
-🤖 AI Resume Screening Platform  
-🌐 Full Stack MERN Applications  
+🔍 **Code Plagiarism Detection Tool**  
+→ Detects similarity using intelligent algorithms  
 
----
+🤖 **AI Resume Screening Platform**  
+→ Automates candidate shortlisting  
 
-## 🚀 Currently Working On
-
-✔ Full Stack Web Applications  
-✔ Backend using Node.js & Express  
-✔ Daily DSA Practice (C++)  
+🌐 **Full Stack MERN Apps**  
+→ Authentication, APIs, dashboards & more  
 
 ---
 
-## 🌱 Learning
+## 🔥 Current Focus
 
-🔗 REST APIs  
-🗄 MongoDB & SQL  
-🤖 Basics of Machine Learning  
+✔ Building production-level full stack apps  
+✔ Backend mastery (Node.js + Express)  
+✔ Daily DSA grind (C++)  
 
 ---
 
-## 🤝 Open To Opportunities
+## 🌱 Currently Learning
 
-💼 Software Development Internships  
-👨‍💻 Open Source Contributions  
-🏆 Hackathons & Team Projects  
+🔗 Advanced REST APIs  
+🗄 Database Design (MongoDB + SQL)  
+🤖 Machine Learning Fundamentals  
+
+---
+
+## 🎯 Goals 2026
+
+🚀 Crack a high-paying tech role (10+ LPA)  
+💼 Gain strong internship experience  
+🌍 Contribute to impactful open-source projects  
+
+---
+
+## 🤝 Let's Collaborate
+
+💼 Open for internships & projects  
+🏆 Hackathons | Open Source | Team Work  
 
 ---
 
@@ -102,5 +115,5 @@
 ---
 
 <p align="center">
-✨ Code daily • Build projects • Grow consistently 🚀
+✨ <b>Code • Build • Learn • Repeat</b> 🚀
 </p>

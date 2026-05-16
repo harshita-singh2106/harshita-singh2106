@@ -1,65 +1,56 @@
-<h1 align="center">Hi 👋, I'm Harshita Singh</h1>
+<div align="center">
 
-<h3 align="center">
-🚀 Full Stack Developer • MERN Stack Enthusiast • Backend Developer • DSA Learner
-</h3>
+# 💜 Harshita Singh
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=1000&color=A855F7&center=true&vCenter=true&width=750&lines=Full+Stack+Developer;MERN+Stack+Engineer;Backend+Developer;Problem+Solver;Building+Scalable+Web+Applications"/>
-</p>
+### 🚀 Full Stack Developer | MERN Stack Engineer | Backend Developer | DSA Enthusiast
 
-<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=C084FC&center=true&vCenter=true&width=750&lines=Building+Scalable+Web+Applications;MERN+Stack+Developer;Backend+Engineering+Enthusiast;Problem+Solver+%7C+DSA+Learner;Always+Learning+New+Technologies"/>
+
+<br/>
+
 <a href="https://github.com/harshita-singh2106">
-<img src="https://komarev.com/ghpvc/?username=harshita-singh2106&label=Profile+Views&color=8b5cf6&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=harshita-singh2106&label=Profile+Views&color=a855f7&style=for-the-badge"/>
 </a>
 
 <a href="https://github.com/harshita-singh2106?tab=followers">
-<img src="https://img.shields.io/github/followers/harshita-singh2106?label=Followers&style=for-the-badge&color=6366f1"/>
+<img src="https://img.shields.io/github/followers/harshita-singh2106?style=for-the-badge&color=6366f1"/>
 </a>
 
 <a href="https://github.com/harshita-singh2106">
 <img src="https://img.shields.io/github/stars/harshita-singh2106?style=for-the-badge&color=f59e0b"/>
 </a>
-</p>
+
+</div>
 
 ---
 
-# 💫 About Me
+# 🌸 About Me
 
-<img align="right" alt="Coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<img align="right" alt="Coding Girl" width="320" src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif"/>
 
 🎓 B.Tech CSE Student at **SRM University**  
 
-💻 Passionate about **Full Stack Web Development**  
+💻 Passionate about **Full Stack Development & Backend Engineering**  
 
 ⚡ Skilled in building scalable applications using the **MERN Stack**  
 
-🧠 Interested in **Backend Engineering, APIs & System Design**  
+🧠 Exploring **System Design, APIs & Performance Optimization**  
 
-📚 Currently improving **DSA & Problem Solving Skills**  
+📚 Actively practicing **Data Structures & Algorithms**  
 
-🚀 Love building real-world projects and learning new technologies  
+🚀 Love turning ideas into real-world projects  
+
+✨ Believer in clean code, consistency, and continuous learning  
+
+<br clear="right"/>
 
 ---
 
-# 🛠️ Tech Stack
+# ⚒️ Tech Arsenal
 
 <div align="center">
 
-### 👨‍💻 Languages
-<img src="https://skillicons.dev/icons?i=cpp,js" />
-
-### 🌐 Frontend
-<img src="https://skillicons.dev/icons?i=html,css,react,tailwind" />
-
-### ⚙️ Backend
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
-
-### 🗄️ Database
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
-
-### 🛠️ Tools & Platforms
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,express,mongodb,mysql,cpp,git,github,vscode,postman,vercel&perline=5"/>
 
 </div>
 
@@ -67,99 +58,119 @@
 
 # 🚀 Featured Projects
 
+<div align="center">
+
 <table>
+
 <tr>
+
 <td width="50%">
 
-## 🔍 Code Plagiarism Detection Tool
-✨ Detects similarity between source code files using optimized algorithms  
+### 🔍 Code Plagiarism Detection Tool
+
+📌 Detects similarity between source code files using optimized algorithms  
 
 ⚡ Focused on performance and backend optimization  
 
-🛠️ Tech Used: `C++` `Algorithms`
+🛠️ **Tech Stack:**  
+`C++` `Algorithms` `DSA`
 
 </td>
 
 <td width="50%">
 
-## 🤖 AI Resume Screening Platform
-✨ Smart resume filtering system using intelligent matching  
+### 🤖 AI Resume Screening Platform
+
+📌 Smart resume filtering system using intelligent matching  
 
 📈 Helps improve hiring efficiency and automation  
 
-🛠️ Tech Used: `MERN` `AI APIs`
+🛠️ **Tech Stack:**  
+`MERN` `AI APIs` `Node.js`
 
 </td>
+
 </tr>
 
 <tr>
+
 <td width="50%">
 
-## 🌐 MERN Full Stack Applications
-✨ Authentication systems, REST APIs & database integration  
+### 🌐 MERN Full Stack Applications
+
+📌 Authentication systems, REST APIs & database integration  
 
 ⚙️ Clean backend architecture with responsive UI  
 
-🛠️ Tech Used: `React` `Node.js` `MongoDB`
+🛠️ **Tech Stack:**  
+`React` `Express` `MongoDB`
 
 </td>
 
 <td width="50%">
 
-## 📚 DSA Practice Journey
-✨ Solving algorithmic problems regularly  
+### 📚 DSA Practice Journey
+
+📌 Solving algorithmic problems regularly  
 
 🏆 Improving logical thinking & coding efficiency  
 
-🛠️ Platforms: `LeetCode` `HackerRank`
+🛠️ **Platforms:**  
+`LeetCode` `HackerRank`
 
 </td>
+
 </tr>
+
 </table>
+
+</div>
 
 ---
 
 # 📊 GitHub Analytics
 
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=harshita-singh2106&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15"/>
+<div align="center">
 
-<img height="170" src="https://streak-stats.demolab.com?user=harshita-singh2106&theme=tokyonight&hide_border=true&border_radius=15"/>
-</p>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=harshita-singh2106&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15"/>
 
-<p align="center">
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshita-singh2106&layout=compact&theme=tokyonight&hide_border=true&border_radius=15"/>
-</p>
+<img height="180em" src="https://streak-stats.demolab.com?user=harshita-singh2106&theme=tokyonight&hide_border=true&border_radius=15"/>
+
+<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshita-singh2106&layout=compact&theme=tokyonight&hide_border=true&border_radius=15"/>
+
+</div>
 
 ---
 
 # 🏆 Achievements
 
-🏅 Built multiple scalable MERN stack projects  
+✨ Built multiple real-world MERN Stack projects  
 
-🏅 Strong understanding of REST APIs & backend systems  
+✨ Strong understanding of REST APIs & backend architecture  
 
-🏅 Continuously improving DSA & development skills  
+✨ Consistently improving DSA & problem-solving skills  
 
-🏅 Active learner and consistent project builder  
+✨ Passionate about scalable and clean web development  
 
 ---
 
-# 🎯 Current Focus
+# 🎯 Current Goals
 
-✔ Backend Development with Node.js & Express  
+✔ Master Backend Development with Node.js  
 
-✔ Scalable System Design Concepts  
+✔ Learn Scalable System Design  
 
-✔ Advanced DSA & Competitive Programming  
+✔ Improve Competitive Programming Skills  
 
-✔ Real-world Full Stack Applications  
+✔ Build impactful Full Stack products  
+
+✔ Contribute more to Open Source  
 
 ---
 
 # 🌐 Connect With Me
 
-<p align="center">
+<div align="center">
 
 <a href="mailto:harshitasingh212121@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
@@ -177,18 +188,30 @@
 <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/>
 </a>
 
-</p>
+</div>
 
 ---
 
-# ✨ Developer Quote
+# 💭 Dev Philosophy
 
-<p align="center">
-<i>"Code with logic. Build with creativity. Scale with confidence." 🚀</i>
-</p>
+<div align="center">
+
+### ✨ *"Code smart. Build beautifully. Scale endlessly."* 🚀
+
+</div>
 
 ---
 
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=8b5cf6&height=140&section=footer"/>
-</p>
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=harshita-singh2106&theme=tokyonight&no-frame=true&row=1&column=6"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&customColorList=12,20,24,30&section=footer"/>
+
+</div>

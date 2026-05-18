@@ -1,23 +1,23 @@
 <div align="center">
 
-# 💜 Harshita Singh
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&customColorList=6,11,20,24,30&text=Harshita%20Singh&fontSize=55&fontAlignY=38&desc=Full%20Stack%20Developer%20•%20MERN%20Stack%20Engineer%20•%20Backend%20Developer&descAlignY=58&animation=fadeIn"/>
 
-### 🚀 Full Stack Developer | MERN Stack Engineer | Backend Developer | DSA Enthusiast
+<br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=C084FC&center=true&vCenter=true&width=750&lines=Building+Scalable+Web+Applications;MERN+Stack+Developer;Backend+Engineering+Enthusiast;Problem+Solver+%7C+DSA+Learner;Always+Learning+New+Technologies"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=1000&color=C084FC&center=true&vCenter=true&multiline=true&width=900&height=100&lines=🚀+Building+Scalable+Web+Applications;⚡+Passionate+About+Backend+Engineering;💻+MERN+Stack+Developer+%7C+DSA+Learner;🌸+Turning+Ideas+Into+Reality+Through+Code"/>
 
 <br/>
 
 <a href="https://github.com/harshita-singh2106">
-<img src="https://komarev.com/ghpvc/?username=harshita-singh2106&label=Profile+Views&color=a855f7&style=for-the-badge"/>
-</a>
-
-<a href="https://github.com/harshita-singh2106?tab=followers">
-<img src="https://img.shields.io/github/followers/harshita-singh2106?style=for-the-badge&color=6366f1"/>
+<img src="https://img.shields.io/github/followers/harshita-singh2106?style=for-the-badge&logo=github&color=8b5cf6&labelColor=1e1b4b"/>
 </a>
 
 <a href="https://github.com/harshita-singh2106">
-<img src="https://img.shields.io/github/stars/harshita-singh2106?style=for-the-badge&color=f59e0b"/>
+<img src="https://komarev.com/ghpvc/?username=harshita-singh2106&style=for-the-badge&color=7c3aed"/>
+</a>
+
+<a href="https://github.com/harshita-singh2106">
+<img src="https://img.shields.io/github/stars/harshita-singh2106?style=for-the-badge&color=f59e0b&labelColor=1c1917"/>
 </a>
 
 </div>
@@ -26,31 +26,37 @@
 
 # 🌸 About Me
 
-<img align="right" alt="Coding Girl" width="320" src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif"/>
+<img align="right" width="320" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3p4M3M3cHhxb3Q2d3M3NXA5NWh2MmdmZHBhZmFqZ2d3M2t4dXpqZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif"/>
 
-🎓 B.Tech CSE Student at **SRM University**  
+```yaml
+Name: Harshita Singh
+Education: B.Tech CSE @ SRM University
+Focus: Full Stack Web Development
+Specialization: Backend Engineering
+Tech Stack: MERN Stack
+Learning: DSA + System Design
+Goal: Building impactful scalable applications
+```
 
-💻 Passionate about **Full Stack Development & Backend Engineering**  
+✨ Passionate about crafting clean and scalable web applications  
 
-⚡ Skilled in building scalable applications using the **MERN Stack**  
+⚡ Love solving backend challenges and optimizing APIs  
 
-🧠 Exploring **System Design, APIs & Performance Optimization**  
+🚀 Interested in modern technologies, performance & architecture  
 
-📚 Actively practicing **Data Structures & Algorithms**  
+📚 Continuously learning through projects and problem solving  
 
-🚀 Love turning ideas into real-world projects  
-
-✨ Believer in clean code, consistency, and continuous learning  
+💜 Believer in consistency, creativity, and clean code  
 
 <br clear="right"/>
 
 ---
 
-# ⚒️ Tech Arsenal
+# ⚡ Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,express,mongodb,mysql,cpp,git,github,vscode,postman,vercel&perline=5"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,express,mongodb,mysql,cpp,git,github,vscode,postman,vercel,firebase&theme=dark"/>
 
 </div>
 
@@ -66,27 +72,27 @@
 
 <td width="50%">
 
-### 🔍 Code Plagiarism Detection Tool
+## 🔍 Code Plagiarism Detection Tool
 
-📌 Detects similarity between source code files using optimized algorithms  
+✨ Detects similarity between source code files using optimized algorithms  
 
-⚡ Focused on performance and backend optimization  
+⚡ Designed for performance and backend efficiency  
 
-🛠️ **Tech Stack:**  
+🛠️ **Tech Used:**  
 `C++` `Algorithms` `DSA`
 
 </td>
 
 <td width="50%">
 
-### 🤖 AI Resume Screening Platform
+## 🤖 AI Resume Screening Platform
 
-📌 Smart resume filtering system using intelligent matching  
+✨ Smart resume filtering system with intelligent matching  
 
-📈 Helps improve hiring efficiency and automation  
+📈 Helps automate and simplify recruitment processes  
 
-🛠️ **Tech Stack:**  
-`MERN` `AI APIs` `Node.js`
+🛠️ **Tech Used:**  
+`MERN Stack` `AI APIs` `Node.js`
 
 </td>
 
@@ -96,24 +102,24 @@
 
 <td width="50%">
 
-### 🌐 MERN Full Stack Applications
+## 🌐 Full Stack MERN Applications
 
-📌 Authentication systems, REST APIs & database integration  
+✨ Authentication systems, REST APIs & database integration  
 
-⚙️ Clean backend architecture with responsive UI  
+⚙️ Responsive UI with scalable backend architecture  
 
-🛠️ **Tech Stack:**  
+🛠️ **Tech Used:**  
 `React` `Express` `MongoDB`
 
 </td>
 
 <td width="50%">
 
-### 📚 DSA Practice Journey
+## 📚 DSA & Competitive Programming
 
-📌 Solving algorithmic problems regularly  
+✨ Practicing problem-solving and advanced algorithms daily  
 
-🏆 Improving logical thinking & coding efficiency  
+🏆 Improving logical thinking and coding efficiency  
 
 🛠️ **Platforms:**  
 `LeetCode` `HackerRank`
@@ -128,15 +134,15 @@
 
 ---
 
-# 📊 GitHub Analytics
+# 📊 GitHub Stats
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=harshita-singh2106&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=harshita-singh2106&show_icons=true&theme=tokyonight&hide_border=true&border_radius=20"/>
 
-<img height="180em" src="https://streak-stats.demolab.com?user=harshita-singh2106&theme=tokyonight&hide_border=true&border_radius=15"/>
+<img width="49%" src="https://streak-stats.demolab.com?user=harshita-singh2106&theme=tokyonight&hide_border=true&border_radius=20"/>
 
-<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshita-singh2106&layout=compact&theme=tokyonight&hide_border=true&border_radius=15"/>
+<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshita-singh2106&layout=compact&theme=tokyonight&hide_border=true&border_radius=20"/>
 
 </div>
 
@@ -144,27 +150,32 @@
 
 # 🏆 Achievements
 
-✨ Built multiple real-world MERN Stack projects  
+<div align="center">
 
-✨ Strong understanding of REST APIs & backend architecture  
+🏅 Built multiple scalable MERN Stack projects  
 
-✨ Consistently improving DSA & problem-solving skills  
+🏅 Strong understanding of REST APIs & backend systems  
 
-✨ Passionate about scalable and clean web development  
+🏅 Constantly improving DSA & development skills  
+
+🏅 Passionate about building impactful tech solutions  
+
+</div>
 
 ---
 
-# 🎯 Current Goals
+# 🎯 Current Focus
 
-✔ Master Backend Development with Node.js  
+<div align="center">
 
-✔ Learn Scalable System Design  
+| 🚀 Learning | ⚡ Building |
+|---|---|
+| Backend Engineering | Full Stack Projects |
+| System Design | Scalable APIs |
+| Advanced DSA | Clean UI/UX |
+| Performance Optimization | Real-world Applications |
 
-✔ Improve Competitive Programming Skills  
-
-✔ Build impactful Full Stack products  
-
-✔ Contribute more to Open Source  
+</div>
 
 ---
 
@@ -177,7 +188,7 @@
 </a>
 
 <a href="https://www.linkedin.com/in/harshita-singh-04aa4334b">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://github.com/harshita-singh2106">
@@ -192,11 +203,31 @@
 
 ---
 
-# 💭 Dev Philosophy
+# 💭 Dev Quote
 
 <div align="center">
 
-### ✨ *"Code smart. Build beautifully. Scale endlessly."* 🚀
+### ✨ *"Build with passion. Code with purpose. Scale without limits."* 🚀
+
+</div>
+
+---
+
+# 🏅 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=harshita-singh2106&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15&row=1"/>
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=harshita-singh2106&theme=tokyo-night&hide_border=true&radius=16"/>
 
 </div>
 
@@ -204,14 +235,8 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=harshita-singh2106&theme=tokyonight&no-frame=true&row=1&column=6"/>
+### 🌸 Thanks for visiting my profile 💜
 
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&customColorList=12,20,24,30&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=170&section=footer&color=gradient&customColorList=6,11,20,24,30"/>
 
 </div>
